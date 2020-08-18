@@ -1,8 +1,8 @@
 
 <p align='center'>
 <!-- <a href="https://dev.to/laisevn"><img height="30" src="https://github.com/laisevn/Laise/blob/master/dev.png?raw=true"></a>&nbsp;&nbsp; -->
-<a href="https://instagram.com/pipocadev"><img height="30" src="https://github.com/laisevn/Laise/blob/master/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/laisevn/"><img height="30" src="https://github.com/laisevn/Laise/blob/master/linkedin.png?raw=true"></a>
+<a href="https://instagram.com/pipocadev"><img height="30" src="https://github.com/laisevn/Laise/blob/master/instagram.svg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/laisevn/"><img height="30" src="https://github.com/laisevn/Laise/blob/master/linkedin.svg?raw=true"></a>
 </p>
 
 # Hello there! 👩‍💻
