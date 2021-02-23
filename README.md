@@ -1,8 +1,10 @@
- <img src="https://raw.githubusercontent.com/laisevn/laisevn/master/Sakura_Nene_CPP_Fullface.png" width="657" height="303">
+ <img src="https://raw.githubusercontent.com/laisevn/laisevn/master/Sakura_Nene_CPP_Fullface.png" width="647" height="300">
+<p align="justify">
+  My name is Laíse Viana and I'm a software developer/Back-end/Fullstack. 
+  I create instagram posts about Javascript and programming concepts to sharing my knowledge  with others.
+  You can see my recent posts on [@pipocadev](https://www.instagram.com/pipocadev/). Give me a shout out at @laisedev.
+</p>
 
-My name is Laíse Viana and I'm a software developer/Back-end/Fullstack. 
-I create instagram posts about Javascript and programming concepts to sharing my knowledge  with others.
- You can see my recent posts on [@pipocadev](https://www.instagram.com/pipocadev/). Give me a shout out at @laisedev.
  
  #### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
