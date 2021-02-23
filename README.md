@@ -1,4 +1,4 @@
- <img src="https://github.com/laisevn/laisevn/blob/master/Saber_Alter_Ruby.png" width="357" height="319">
+ <img src="https://raw.githubusercontent.com/laisevn/laisevn/master/Sakura_Nene_CPP_Fullface.png" width="657" height="303">
 
 My name is Laíse Viana and I'm a software developer/Back-end/Fullstack. 
 I create instagram posts about Javascript and programming concepts to sharing my knowledge  with others.
