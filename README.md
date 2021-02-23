@@ -1,4 +1,4 @@
- <img src="https://github.com/laisevn/laisevn/blob/master/Saber_Alter_Ruby.png" width="400" height="370">
+ <img src="https://github.com/laisevn/laisevn/blob/master/Saber_Alter_Ruby.png" width="390" height="369">
 
 My name is Laíse Viana and I'm a software developer/Back-end/Fullstack. 
 I create instagram posts about Javascript and programming concepts to sharing my knowledge  with others.
