@@ -2,7 +2,8 @@
 <p align="justify">
   My name is Laíse Viana and I'm a software developer/Back-end/Fullstack. 
   I create instagram posts about Javascript and programming concepts to sharing my knowledge  with others.
-  You can see my recent posts on [@pipocadev](https://www.instagram.com/pipocadev/). Give me a shout out at @laisedev.
+  You can see my recent posts on [@CPlusPlusCards](https://www.instagram.com/CPlusPlusCards/). 
+  Give me a shout out at @laisedev.
 </p>
 
  
