@@ -1,10 +1,9 @@
- <img src="https://raw.githubusercontent.com/laisevn/laisevn/master/Sakura_Nene_CPP_Fullface.png" width="647" height="300">
-<p align="justify">
-  My name is Laíse Viana and I'm a software developer/Back-end/Fullstack. 
-  I create instagram posts about Javascript and programming concepts to sharing my knowledge  with others.
-  You can see my recent posts on [@CPlusPlusCards](https://www.instagram.com/CPlusPlusCards/). 
-  Give me a shout out at @laisedev.
-</p>
+<img src="https://raw.githubusercontent.com/laisevn/laisevn/master/Sakura_Nene_CPP_Fullface.png" width="647" height="300" />
+My name is Laíse Viana and I'm a software developer/Back-end/Fullstack. 
+I create instagram posts about Javascript and programming concepts to sharing my knowledge  with others.
+You can see my recent posts on [@CPlusPlusCards](https://twitter.com/CPlusPlusCards) 
+ 
+Give me a shout out at @laisedev.
 
  
  #### 🔧 Technologies & Tools
