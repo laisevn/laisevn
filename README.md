@@ -18,8 +18,7 @@ You can see my recent posts on https://twitter.com/CPlusPlusCards
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
 
 #### 📚 Study and Persoal Projects
- - 🔭 I’m currently working on personal project - React Native application
+ - 🔭 I’m currently working on personal project - Typescript/Nodejs
  - 🌱 I'm currently training to level up my game in architecture
  - 🌱 I’m currently learning C++
- - 🤔 I’m looking for help with  state managment and  I/O Hardware managment 
 
