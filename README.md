@@ -26,5 +26,23 @@
 
 ---
 
-## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
+## ⭐ **Github Stats**
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laisevn&layout=compact&theme=dracula&hide_langs_below=1" />
+</a>
+
+[website]: https://codedev.ga/
+[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
+[instagram]: https://www.instagram.com/SEUINSTAGRAM/
+<br>
+
+
+---
+#### 🌎 Social Networks
+
+🏡 [website][website] **|** 
+📺 [youtube][youtube] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
