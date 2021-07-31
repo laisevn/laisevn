@@ -44,5 +44,5 @@
 🏡 [website][website] **|** 
 📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+
 
