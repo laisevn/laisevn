@@ -1330,7 +1330,7 @@
                         <div class="topics fill-width">
                             <div class="label" title="C++ is a general purpose and object-oriented programming language.">c++</div>
                             <div class="label" title="An awesome list is a list of awesome things curated by the community.">awesome lists</div>
-                            <div class="label" title="ECMAScript 6 is the sixth release of the ECMAScript language.">es6</div>
+                            <div class="label" title="">es6</div>
                             <div class="label" title="GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data.">graphql</div>
                             <div class="label" title="Ruby is a scripting language designed for simplified object-oriented programming.">ruby</div>
                             <div class="label" title="The coronavirus disease 2019 (COVID-19) is an infectious disease caused by SARS-CoV-2.">covid-19</div>
