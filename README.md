@@ -2,9 +2,9 @@
 
 > I'm back-end developer but most of my background in development is working as fullstack. Actually, i'm doing math graduation and i'm searching to contribute to communit and help others like me who start in tech and change change their own life.
 
-    🔭 I’m currently working on an IoT project for smart campus
-    🌱 I’m currently learning C++ for math and my game projects
-    🤔 I’m looking for help with functional programing
+    🔭 I’m currently working on a project with webcrawler to index knowlege 
+    🌱 I’m currently learning C++ for my side projects
+    🤔 I’m looking for help with functional programing and blockchain
 
 ----
 
