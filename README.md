@@ -1,47 +1,18 @@
-## 💜 Hi, my name is <strong>Laíse!</strong>
-
-> I'm back-end developer but most of my background in development is working as fullstack. Actually, i'm doing math graduation and i'm searching to contribute to communit and help others like me who start in tech and change change their own life.
-
-    🔭 I’m currently working on a project with webcrawler to index knowlege 
-    🌱 I’m currently learning C++ for my side projects
-    🤔 I’m looking for help with functional programing and blockchain
-
-----
-
-## 🚀 My Skills
-<code><img height="32" src="https://miro.medium.com/max/470/1*uHOD632-DD5BLu-ptcFgvA.png" alt="Ruby"/></code>
-<code><img height="32" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png" alt="Rails"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1200px-Webysther_20160423_-_Elephpant.svg.png" alt="PHP"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png?width=256&s=3e825b7205c7f497d4695028e358d26ee359f84b" alt="MySQL"/></code>
-<code><img height="32" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/postgresql.png" alt="PostegreSQL"/></code>
-<code><img height="32" src="https://img.icons8.com/color/452/mongodb.png" alt="MongoDB"/></code>
-<code><img height="32" src="https://image.flaticon.com/icons/png/512/919/919837.png" alt="BashScript"/></code>
+# Hi there 👋, Laíse here. 
 
 
----
+<img align="right" width=300px alt="Unicorn" src="https://media1.giphy.com/media/oz45ELYgMoYVsZqmor/giphy.gif?cid=790b761153d08f90522c1ae245b6b3ae8fb362b99762ea19&rid=giphy.gif&ct=s" />
 
-## ⭐ **Github Stats**
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laisevn&layout=compact&theme=dracula&hide_langs_below=1" />
-</a>
-
-[website]: https://codedev.ga/
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-<br>
-
-
----
-#### 🌎 Social Networks
-
-🏡 [website][website] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
+I am an undergraduate Mathematics student at UCB ( Catholic University of Brasilia). Ruby, PHP, Javascript, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+* **I am interested in Web development, Distributed Systems, and Games**
+- 🌱 I’m currently learning ...
+  - C++
+  - Typescript
+  - Golang
+- 👯 I’m looking forward to collaborate on open source projects.
+- Outside tech, 📖 I love to read novels, terror 🖊️ write, 🎲play rpgs, and 🌴 enjoy the beach.
+- 📫 Reach out to me at: <a href="o1i0t01zm@mozmail.com">laise@dev.com</a>
 
 
