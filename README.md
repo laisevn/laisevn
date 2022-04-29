@@ -9,7 +9,6 @@ I am an undergraduate Mathematics student at UCB ( Catholic University of Brasil
 * **I am interested in Web development, Distributed Systems, and Games**
 - 🌱 I’m currently learning ...
   - C++
-  - Golang
 - 👯 I’m looking forward to collaborate on open source projects.
 - Outside tech, 📖 I love to read novels, terror 🖊️ write, 🎲play rpgs, and 🌴 enjoy the beach.
 - 📫 Reach out to me at: <a href="o1i0t01zm@mozmail.com">laise@dev.com</a>
