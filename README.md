@@ -8,7 +8,7 @@
 I am an undergraduate Computer Science on Newton Paiva. **Ruby**, **PHP**, **Typescript/Javascript/Nodejs** and **Shell** are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Web development, Distributed Systems, and Games**
 - 🌱 I’m currently learning ...
-  - C++
+  - C++ and C#
 - 👯 I’m looking forward to collaborate on open source projects.
 - Outside tech, 📖 I love to read novels, terror 🖊️ write, 🎲play rpgs, and 🌴 enjoy the beach.
 - 📫 Reach out to me at: <a href="o1i0t01zm@mozmail.com">laise@dev.com</a>
