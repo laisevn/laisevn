@@ -1,11 +1,11 @@
 # Hi there 👋, Laíse here. 
 
 
-<img align="right" width=300px alt="Unicorn" src="https://media1.giphy.com/media/oz45ELYgMoYVsZqmor/giphy.gif?cid=790b761153d08f90522c1ae245b6b3ae8fb362b99762ea19&rid=giphy.gif&ct=s" />
+<img align="right" width=450px alt="Unicorn" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNhOG4zaDdqMWljdTczaWJkZnZpangwZ2lhNGxkdzF0NjYxM3NvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif" />
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Computer Science on Newton Paiva. **Ruby**, **PHP**, **Typescript/Javascript/Nodejs** and **Shell** are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+I am an undergraduate Computer Science on Newton Paiva with experience in **Ruby**, **Typescript/Javascript/Nodejs**, and **PHP**, focused on test automation and documentation. Proficient in API integration, microservices architecture. Currently transitioning to develop with C#, .NET, and C++. Looking foward to specialize in Microsoft technologies with a focus on distributed systems and advanced technical development. <br />I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Web development, Distributed Systems, and Games**
 - 🌱 I’m currently learning ...
   - C++ and C#
@@ -13,4 +13,5 @@ I am an undergraduate Computer Science on Newton Paiva. **Ruby**, **PHP**, **Typ
 - Outside tech, 📖 I love to read novels, terror 🖊️ write, 🎲play rpgs, and 🌴 enjoy the beach.
 - 📫 Reach out to me at: <a href="o1i0t01zm@mozmail.com">laise@dev.com</a>
 
-
+![hellvina's Stats](https://github-readme-stats.vercel.app/api?username=laisevn&theme=graywhite&show_icons=true&hide_border=true&count_private=true)
+![hellvina's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hellvina&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
