@@ -11,7 +11,7 @@ I am an undergraduate Computer Science on Newton Paiva with experience in **Ruby
   - C++ and C#
 - 👯 I’m looking forward to collaborate on open source projects.
 - Outside tech, 📖 I love to read novels, terror 🖊️ write, 🎲play rpgs, and 🌴 enjoy the beach.
-- 📫 Reach out to me at: <a href="o1i0t01zm@mozmail.com">laise@dev.com</a>
+- 📫 Reach out to me at: <a href="laise.viana@proton.me">laise.viana@proton.me</a>
 
 ![hellvina's Stats](https://github-readme-stats.vercel.app/api?username=laisevn&theme=graywhite&show_icons=true&hide_border=true&count_private=true)
 ![hellvina's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hellvina&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
