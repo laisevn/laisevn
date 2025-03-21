@@ -5,7 +5,7 @@
 
 ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Computer Science on Newton Paiva with experience in **Ruby**, **Typescript/Javascript/Nodejs**, and **PHP**, focused on web development. Currently studing low level programming languages like C++. Looking forward to specialize in advanced technical development. <br />
+I am an undergraduate Computer Science on Newton Paiva with experience in **Ruby**, **Typescript/Javascript/Nodejs**, and **PHP**, focused on web development. Currently studing low level programming languages. Looking forward to specialize in advanced technical development. <br />
 * **I am interested in data structures, database and Games**
 - 🌱 I’m currently learning C++ and Data.
 - 👯 I’m looking forward to collaborate on open source projects.
