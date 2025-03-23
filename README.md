@@ -2,7 +2,7 @@
 
 <img align="right" width=450px alt="Unicorn" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNhOG4zaDdqMWljdTczaWJkZnZpangwZ2lhNGxkdzF0NjYxM3NvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif" />
 
-### <img src="https://media1.tenor.com/m/MdCwwLF6g7cAAAAd/rage-anime.gif" width="30px">&nbsp;***About me***
+### <img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/refs/heads/master/Algorithms/Miku_Reading_DPV.jpg" width="30px">&nbsp;***About me***
 
 I am an undergraduate Computer Science on Newton Paiva with experience in **Ruby**, **Typescript/Javascript/Nodejs**, and **PHP**, focused on web development. Currently studing low level programming languages. Looking forward to specialize in advanced technical development. <br />
 * **I am interested in data structures, database and Games**
