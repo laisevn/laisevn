@@ -1,8 +1,6 @@
-# Hi there 👋, Laíse here. 
+<img align="right" width=450px alt="Unicorn" src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/refs/heads/master/Algorithms/Miku_Reading_DPV.jpg" />
 
-<img align="right" width=450px alt="Unicorn" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNhOG4zaDdqMWljdTczaWJkZnZpangwZ2lhNGxkdzF0NjYxM3NvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif" />
-
-### <img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/refs/heads/master/Algorithms/Miku_Reading_DPV.jpg" width="30px">&nbsp;***About me***
+### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGR6eno2cGdjZ2l2NXVnbWxxZjlieTc3NnJ6MmE5dHB4ZDYyZW1vdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9C7jqfLXMKV1zZXEZa/giphy.gif" width="30px">&nbsp;***About me***
 
 I am an undergraduate Computer Science on Newton Paiva with experience in **Ruby**, **Typescript/Javascript/Nodejs**, and **PHP**, focused on web development. Currently studing low level programming languages. Looking forward to specialize in advanced technical development. <br />
 * **I am interested in data structures, database and Games**
