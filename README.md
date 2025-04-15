@@ -4,7 +4,7 @@
 
 I am an undergraduate Computer Science on Newton Paiva with experience in **Ruby**, **Typescript/Javascript/Nodejs**, and **PHP**, focused on web development. Currently studing low level programming languages. Looking forward to specialize in advanced technical development. <br />
 * **I am interested in data structures, database and Games**
-- 🌱 I’m currently learning C++ and Data.
+- 🌱 I’m currently learning C# and C++.
 - 👯 I’m looking forward to collaborate on open source projects.
 - Outside tech, 📖 I love to read novels, terror 🖊️ write, 🎲play rpgs, and 🌴 enjoy the beach.
 - 📫 Reach out to me at: <a href="laise.viana@proton.me">laise.viana@proton.me</a>
